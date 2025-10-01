@@ -4,4 +4,4 @@ const apellido2= "Balbuena"
 
 console.log(`Hola ${nombre} ${apellido1} ${apellido2}!`)
 
-console.log("Voy a aprobar el módulo de DWEC")
+//console.log("Voy a aprobar el módulo de DWEC")
